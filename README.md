@@ -1,4 +1,4 @@
-# Fuel-Price-Application
+# Fuel Price Application
 
 This repository contains the files used for the Fuel Price Application, an R Shiny application designed to give both a general and user-specific estimate as to how much it will cost to fill up a user-selected vehicle per month.
 
